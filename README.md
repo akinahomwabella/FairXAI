@@ -67,11 +67,11 @@ This work is applied to real-world datasets in criminal justice and income predi
 git clone https://github.com/akinahomwabella/fair_xai_pipeline.git
 cd fair_xai_pipeline
 
-###2.Create Virtual Environment
+### 2.Create Virtual Environment
 python -m venv env
 source env/bin/activate  # or `env\Scripts\activate` on Windows
 
-###3. Install Dependencies
+### 3. Install Dependencies
 pip install -r requirements.txt
 @misc{akinahom_fairxai_2025,
   title={A Framework for Bias Detection and Mitigation in Machine Learning},
