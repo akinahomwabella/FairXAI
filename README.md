@@ -77,5 +77,5 @@ pip install -r requirements.txt
   title={A Framework for Bias Detection and Mitigation in Machine Learning},
   author={Wabella, Akinahom},
   year={2025},
-  url={https://https://github.com/akinahomwabella/FairXAI/tree/main}
+  url={https://https://github.com/akinahomwabella/fair_xai_pipeline.git}
 }
